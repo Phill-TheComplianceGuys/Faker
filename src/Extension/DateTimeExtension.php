@@ -2,6 +2,8 @@
 
 namespace Faker\Extension;
 
+use Faker\Extension\Extension;
+
 /**
  * FakerPHP extension for Date-related randomization.
  *
